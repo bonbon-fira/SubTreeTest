@@ -1,0 +1,4 @@
+[submodule "Plugins/SubProject2"]
+	path = Plugins/SubProject2
+	url = https://github.com/bonbon-fira/SubProject2.git
+	branch = main
